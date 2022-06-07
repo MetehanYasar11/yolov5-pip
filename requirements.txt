@@ -39,5 +39,6 @@ thop  # FLOPs computation
 fire
 # AWS
 boto3>=1.19.1
+urllib3==1.26.9
 # coco to yolov5 conversion
 sahi>=0.4.3
