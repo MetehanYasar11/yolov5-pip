@@ -40,4 +40,4 @@ fire
 # AWS
 boto3>=1.19.1
 # coco to yolov5 conversion
-sahi>=0.9.1
+sahi>=0.4.3
